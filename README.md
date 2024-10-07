@@ -30,13 +30,17 @@ Citation
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
 @INPROCEEDINGS{10642190,
+
   author={Jamali, Ali and Roy, Swalpa Kumar and Lu, Bing and Bhattacharya, Avik and Ghamisi, Pedram},
+  
   booktitle={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium}, 
+  
   title={PolSARConvMixer: A Channel and Spatial Mixing Convolutional Algorithm for PolSAR Data Classification}, 
+  
   year={2024},
-  volume={},
-  number={},
+  
   pages={11248-11251},
+  
   doi={10.1109/IGARSS53475.2024.10642190}
   }
 
