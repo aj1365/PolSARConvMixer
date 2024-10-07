@@ -37,8 +37,8 @@ Citation
   volume={},
   number={},
   pages={11248-11251},
-  keywords={Computer vision;Accuracy;Convolution;Training data;Benchmark testing;Transformers;Classification algorithms;PolSAR;CNN;image classification;land cover mapping;deep learning},
-  doi={10.1109/IGARSS53475.2024.10642190}}
+  doi={10.1109/IGARSS53475.2024.10642190}
+  }
 
 ## License
 
