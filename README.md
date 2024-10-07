@@ -2,7 +2,7 @@
 
 
 
-[Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali), [Swalpa Kumar Roy](https://swalpa.github.io), [Bing Lu] (https://www.sfu.ca/people/binglu/about.html), [Avik Bhattacharya](http://www.mrslab.in/Avik/), and [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/)
+[Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali), [Swalpa Kumar Roy](https://swalpa.github.io), [Bing Lu](https://www.sfu.ca/people/binglu/about.html), [Avik Bhattacharya](http://www.mrslab.in/Avik/), and [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/)
 
 
 <img src="PolSARConvMixer.png"/>
